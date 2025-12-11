@@ -1,0 +1,10 @@
+name: first_extension
+author: User
+extension_module: first_extension
+group_id: org.tutorial
+version: 0.1.0
+vendor: User
+license_file: LICENSE.TXT
+description: "Extension with Blomqvist's Beta node"
+long_description: "Python-based KNIME extension with a custom correlation node."
+pixi_toml_path: pixi.toml

@@ -1,0 +1,4 @@
+org.tutorial.first_extension:
+  src: C:/Users/User/Desktop/knime-extensions/blomqvist_extension/src
+  conda_env_path: C:/Users/User/Desktop/knime-extensions/blomqvist_extension/.pixi/envs/default
+  debug_mode: true

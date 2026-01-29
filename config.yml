@@ -1,0 +1,4 @@
+gr.uth.blomqvist:
+  src: C:/knime-ext/src
+  conda_env_path: C:/knime-ext/.pixi/envs/default
+  debug_mode: true

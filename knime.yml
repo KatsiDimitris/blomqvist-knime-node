@@ -1,0 +1,10 @@
+name: blomqvist
+author: katsi dimitrios
+extension_module: .\src\first_extension
+group_id: gr.uth
+version: 0.1.0
+vendor: uth
+license_file: LICENSE.TXT
+description: "Extension with Blomqvist's Beta node"
+long_description: "Python-based KNIME extension with a custom correlation node."
+pixi_toml_path: pixi.toml
